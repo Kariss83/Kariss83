@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Former Maths Teacher, turned Django/Python developer.
+
+Currently looking for a job ideally involving cybersecurity or DevOps.
+
 <!--
 **Kariss83/Kariss83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
