@@ -2,7 +2,7 @@
 
 Former Maths Teacher, turned Django/Python developer.
 
-Currently looking for a job ideally involving cybersecurity or DevOps.
+Currently working as a Python Developper in Cybersecurity.
 
 <!--
 **Kariss83/Kariss83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
